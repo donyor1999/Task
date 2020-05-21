@@ -11,6 +11,8 @@ import android.widget.ProgressBar;
 
 public class Main2Activity extends AppCompatActivity {
 
+    // hello
+
     private WebView webView;
     ProgressBar progressBar;
     String webadres;
