@@ -22,7 +22,6 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         webView = (WebView) findViewById(R.id.webview);
-        progressBar = (ProgressBar) findViewById(R.id.progressbar);
 
         webadres = getIntent().getExtras().getString("weburl");
 

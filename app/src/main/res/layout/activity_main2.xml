@@ -8,11 +8,6 @@
     android:layout_height="match_parent"
     tools:context=".Main2Activity">
 
-    <ProgressBar
-        android:id="@+id/progresbar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-
     <WebView
         android:id="@+id/webview"
         android:layout_below="@+id/progresbar"
