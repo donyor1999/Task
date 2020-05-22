@@ -12,7 +12,7 @@ import android.widget.ProgressBar;
 public class Main2Activity extends AppCompatActivity {
 
     // hello
-
+    ///dhjkahfhakfhdaklhfjdalhfdjalhfjdalfhdjaslhl
     private WebView webView;
     ProgressBar progressBar;
     String webadres;
